@@ -24,10 +24,10 @@
 <br></br>
 <img align="left" alt="PostgreSQL" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<br></br>
+
 <img align="left" alt="IntelliJ IDEA" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<br></br>
+
 <img align="left" alt="Spring" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
 
