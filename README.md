@@ -4,10 +4,10 @@
 
 ### Connect with me:
 <a href="https://vk.com/id70232137"> 
-    <img align="left" width="40px" alt="mail" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
+    <img align="left" width="48px" alt="mail" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
 </a>
 <a href="mailto:sheepown123@gmail.com"> 
-    <img align="left" width="40px" alt="mail" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+    <img align="left" width="48px" alt="mail" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 </a>
 
 <br></br>
