@@ -21,7 +21,7 @@
 <img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
-
+<br></br>
 <br></br>
 <img align="left" alt="PostgreSQL" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
