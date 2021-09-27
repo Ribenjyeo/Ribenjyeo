@@ -30,8 +30,7 @@
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 
 <img align="left" alt="Spring" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-
-
+<img align="left" alt="React" width="48px" src="https://img.icons8.com/officel/16/000000/react.png"/>
 
 <img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="Docker" width="48px" src="https://img.icons8.com/color/48/000000/docker.png"/>
