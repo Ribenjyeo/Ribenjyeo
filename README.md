@@ -38,9 +38,5 @@
 
 
 <br></br>
-<br></br>
-<details>
-   <summary>GitHub Stats 📊 </summary>
-    <br></br>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ribenjyeo&show_icons=true" width="420">
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ribenjyeo&show_icons=true" width="420">
+
