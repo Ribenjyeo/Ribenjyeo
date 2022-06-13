@@ -12,14 +12,14 @@
 
 <br></br>
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="Java" width="48px" o src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
+
 <br></br>
-<br></br>
+
+### Tools:
 
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" alt="PostgreSQL" width="48px" src="https://banner2.cleanpng.com/20180425/ysq/kisspng-postgresql-computer-icons-database-angularjs-tencent-5ae0d0a99e4c21.3589691815246829216484.jpg"/>
