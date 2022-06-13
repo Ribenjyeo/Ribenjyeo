@@ -20,7 +20,7 @@
 <img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <br></br>
 <br></br>
-<img align="left" alt="PostgreSQL" width="48px" src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png"/>
+<img align="left" alt="PostgreSQL" width="48px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain-1324760555607314126.png"/>
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" alt="MongoDB" width="48px" src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png"
 
