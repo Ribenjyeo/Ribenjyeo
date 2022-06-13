@@ -15,9 +15,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="48px" o src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="PHP" width="48px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-<img align="left" alt="C++" width="48px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Python" width="48px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="JavaScript" width="48px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="48px" src="https://img.icons8.com/color/48/000000/css3.png" />
@@ -25,6 +22,8 @@
 <br></br>
 <img align="left" alt="PostgreSQL" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="left" alt="MongoDB" width="48px" src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png"
+
 
 <img align="left" alt="IntelliJ IDEA" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
