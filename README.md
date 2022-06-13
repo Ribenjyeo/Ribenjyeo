@@ -19,12 +19,15 @@
 
 <br></br>
 
-### Tools:
+### Database:
 
 <img align="left" alt="MySQL" width="48px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="left" alt="PostgreSQL" width="48px" src="https://banner2.cleanpng.com/20180425/ysq/kisspng-postgresql-computer-icons-database-angularjs-tencent-5ae0d0a99e4c21.3589691815246829216484.jpg"/>
 <img align="left" alt="MongoDB" width="48px" src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png"
 
+<br></br>
+
+### Tools:
 
 <img align="left" alt="IntelliJ IDEA" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="Visual Studio Code" width="48px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
